@@ -267,4 +267,4 @@ We'd like to acknowledge the excellent work of the open-source community, especi
 
 We're committed to building the Agents SDK as an open source framework so others in the community can expand on our approach.
 
-For more details, see the [documentation](https://openai.github.io/openai-agents-js) or explore the [`examples/`](examples/) directory.
+For more details, see the [documentation](https://openai.github.io/openai-agents-js) or explore the [`examples/`](examples/) directory.☺️
